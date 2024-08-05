@@ -1,4 +1,4 @@
-# @trebla/lyra
+# @navi-kit/core
 
 A utility library.
 
@@ -7,11 +7,11 @@ A utility library.
 NPM :
 
 ```sh
-npm install @trebla/lyra
+npm install @navi-kit/core
 ```
 
 or Yarn:
 
 ```sh
-yarn add @trebla/lyra
+yarn add @navi-kit/core
 ```
